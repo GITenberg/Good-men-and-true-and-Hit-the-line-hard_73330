@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8312'
     url: http://www.gutenberg.org/2009/agents/8312
     wikipedia: https://en.wikipedia.org/wiki/Harvey_Dunn
+covers:
+- cover_type: archival
+  image_path: 73330-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Rhodes, Eugene Manlove
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4149
     wikipedia: https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73330#Good-men-and-true-and-Hit-the-line-hard
 gutenberg_issued: '2024-04-04'
 gutenberg_type: Text
 identifiers:
